@@ -1,2 +1,2 @@
 # hash-block
-Blockchain simulation using Java
+Blockchain simulation using Java and custom objects.
